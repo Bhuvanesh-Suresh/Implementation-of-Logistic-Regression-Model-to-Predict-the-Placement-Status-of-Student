@@ -18,8 +18,8 @@ To write a program to implement the the Logistic Regression Model to Predict the
 ## Program:
  ```
  Program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
- Developed by: VINISH RAJ R
- RegisterNumber: 212223230243
+ Developed by: BHUVANESH S R
+ RegisterNumber: 212223240017
 ```
 ```
 import pandas as pd
@@ -120,7 +120,7 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ![Screenshot 2024-04-03 110535](https://github.com/Vinishofficial/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/146931793/d4a6ac8f-1abe-4151-931a-cc4f4f9cf267)
 
 ### Prediction of LR:
-![Screenshot 2024-04-03 110559](https://github.com/Vinishofficial/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/146931793/b47a5260-dfab-46e4-850c-046af86a291f)
+![yfh](https://github.com/Bhuvanesh-Suresh/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/145742661/72d4fee2-3aab-43d8-8f51-aed003ccff54)
 
 ## Result:
 Thus the program to implement the the Logistic Regression Model to Predict the Placement Status of Student is written and verified using python programming.
